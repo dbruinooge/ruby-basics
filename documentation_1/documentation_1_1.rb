@@ -1,0 +1,1 @@
+# ruby-doc.org, https://www.ruby-lang.org/en/documentation/
